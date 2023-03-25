@@ -1,3 +1,3 @@
 # typescript_course
 
-Drag & Drop project
+Drag & Drop project 
